@@ -12,7 +12,6 @@ def Zadacha1(n):
     fs = Zadacha1(n)
     print(fs)
 
-
 # Задача 2. Выведите таблицу истинности для выражения ¬(X ∧ Y) ∨ Z.
 def Zadacha2():
     print("X  |  Y  |  Z  |  ¬(X ∧ Y) ∨ Z")
