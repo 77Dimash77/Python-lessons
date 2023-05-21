@@ -35,7 +35,7 @@
 import telebot
 import requests
 import random
-bot = telebot.TeleBot("6076476961:AAHT0WqAzhucOds7nnTiWV6PUHrTuMDBWDk")
+bot = telebot.TeleBot("***")
 # @bot.message_handler(commands=['start', 'help'])
 # def send_welcome(message):
 # 	bot.reply_to(message, "Howdy, how are you doing?")
